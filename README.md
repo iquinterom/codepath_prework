@@ -17,7 +17,7 @@ The following **required** functionality is completed:
 ## App Brainstorming (Step 4)
 - Target App
     - adding item to the shopping card 
-    - saving for later purchase
+    - saving items for later purchase
 - TikTok
     - saving cooking videos 
     - downloading videos to your phone
